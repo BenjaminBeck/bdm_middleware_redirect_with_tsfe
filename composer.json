@@ -1,0 +1,14 @@
+{
+    "name": "bdm/bdm_middleware_redirect_with_tsfe",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "author": [],
+    "require": {
+        "typo3/cms-core": "^10.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "BDM\\BdmMiddlewareRedirectWithTsfe\\": "Classes"
+        }
+    }
+}
